@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Ánh à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao Ánh cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Yến à!',
+    introDesc: `Chưa bao giờ MInh nghĩ rằng Yến là gu của Minh đâu
+    Chưa bao giờ MInh nghĩ rằng Minh sẽ fall in love with u
+    Mà giọng nói ngọt ngào cất ra từ headphone 
+    Say đắm cồn cào lỡ yêu rồi mất khôn`,
     btnIntro: 'hihi',
-    title: 'Tôi chỉ muốn nói với Ánh rằng tôi rất yêu ánh 😙',
-    desc: 'Tôi thích Ánh vì nụ cười Ánh,mắt của Ánh,nói chung là tôi thích Ánh ',
+    title: 'T chỉ muốn nói rằng Minh rất yêu Yến 😙',
+    desc: 'Thích Yến vì nụ cười Yến,mắt của Yến,cả giọng nói của Yến nữa ',
     btnYes: 'Tui cũng yêu cậu <33',
-    btnNo: 'Không, chúng ta chỉ là bạn :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao Ánh lại yêu tôi <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu MInh nhiều lắm <33333333',
-    mess: 'Tôi biết mà 🥰. Yêu Ánh nhiều nhiều 😘😘',
-    messDesc: 'Tối 12h tôi qua đón Ánh đi chơi nhó.Yêu Ánh <333.',
-    btnAccept: 'Yêu anh <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnNo: 'Không, chúng ta còn chưa gặp :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao Yến lại chọn Minh <3',
+    btnReply: 'Gửi cho Minhh <3',
+    reply: 'Yêu Minh nhiều lắm <33333333',
+    mess: 'Minh biết mà 🥰. Yêu Yến nhiều nhiều 😘😘',
+    messDesc: 'Hết dịch rồi xuống TC đi chơi với t nhó. Yêu Yến <333.',
+    btnAccept: 'Yêu Minh <3',
+    messLink: 'http://fb.com' //https://www.messenger.com/t/100053179840579
 }
